@@ -61,7 +61,7 @@ Este repositório contém as soluções para o Teste Técnico de Analista de BI/
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/IsadoraPerdigao/-HP-TESTE-TECNICO
    ```
 2. Navegue até a parte desejada e siga as instruções específicas de cada pasta/script.
 3. Para gerar o banco de dados e importar os dados:
