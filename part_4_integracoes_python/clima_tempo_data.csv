@@ -1,0 +1,9 @@
+date,temp.day,temp.min,temp.max,humidity,weather.description
+2025-07-22,25.36,14.07,25.96,44,clear sky
+2025-07-23,28.4,15.45,28.98,30,clear sky
+2025-07-24,26.63,15.82,28.75,37,clear sky
+2025-07-25,27.32,14.95,29.24,34,light rain
+2025-07-26,27.11,14.57,28.99,34,light rain
+2025-07-27,29.64,16.28,30.37,24,clear sky
+2025-07-28,28.96,16.34,30.55,27,overcast clouds
+2025-07-29,27.27,17.72,28.94,39,clear sky
